@@ -69,7 +69,7 @@ loadingText.Parent = gui
 			Image = "rbxassetid://4483345998",
 			Time = 4
 		})
-		local Window = OrionLib:MakeWindow({Name = "Hydra Network |Evade| [Mobile Version]", HidePremium = false,IntroText = "Evade V4.4", SaveConfig = false, ConfigFolder = "OrionTest"})
+		local Window = OrionLib:MakeWindow({Name = "Hydra Network |Evade| [Mobile Version(Working]", HidePremium = false,IntroText = "Evade V4.4", SaveConfig = false, ConfigFolder = "OrionTest"})
 
 		--functions and shit
 		getgenv().money = true
